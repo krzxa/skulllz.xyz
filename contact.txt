@@ -1,0 +1,19 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512 - PGP 
+
+Telegram: @skulllzvendor
+Keybase: @skulllz
+Email: skulllz@proton.me
+xyl: @krisz
+PGP: https://skulllz.io/pgp.txt
+Last updated: Mar 22 2023
+-----BEGIN PGP SIGNATURE-----
+
+keDIDMQWYvVR58B FTfTeDQNI1Jeekr dcr0Nua0awn3wVX vnsOHf2sOp77T7T
+ lDtmFzsgXgCP4JB BC1yRFEGblXVQKy MTw5TlU1vV2p9Gt QiZSVjAPUUAVxk4
+  6EdQIjKLBSNhTtK cFhIAfOb6JVbVXV 2WZCEVJmPAt0ATs zBqiJOD0l0jIpTe
+   ZyosB6iFY3gkma0 U9JDCfsV81qzfYM bQ0PeneuTSQnu5D hfmtq6hYqfdmVTE
+    RlzWaXGkwckkP43 pdIukiNHB9yhFjb n6yXlKvHKKp0r7i 23qaPUUuORapRMB
+     a0EkqekoCZ9xWxX Qo5Bi7hYxjfBBv2 nsarwkUJ1vRdPeW XjgDdel5ORi1KmM
+      LdfG6TeK8kggc1M WMw2uy7FJiIK0nM lhrmzuMDNA4hppS twPflVxsjqNSrZb
+-----END PGP SIGNATURE-----
